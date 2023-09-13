@@ -1,0 +1,49 @@
+
+
+[
+  {
+    "id": 12345,
+    "cover": "https://i.ibb.co/Y8dhQLK/high-angle-workspace-with-succulents-notebook.jpg",
+    "title": "Mystery in the Moonlight",
+    "author_img": "https://i.ibb.co/yQ6wK54/boy1.png",
+    "posted_date": "September 12, 2023",
+    "reading_time": "45 minutes",
+    "hashtag": ["#Mystery", "#Thriller", "#Adventure"]
+  },
+  {
+    "id": 54321,
+    "cover": "https://i.ibb.co/K7j7RS5/flat-lay-workstation-with-copy-space-laptop.jpg",
+    "title": "The Enchanted Forest",
+    "author_img": "https://i.ibb.co/GFwHWXM/boy2.jpg",
+    "posted_date": "September 13, 2023",
+    "reading_time": "30 minutes",
+    "hashtag": ["#Fantasy", "#Magic", "#Adventure"]
+  },
+  {
+    "id": 98765,
+    "cover": "https://i.ibb.co/qMwnGkn/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+    "title": "A Recipe for Love",
+    "author_img": "https://i.ibb.co/ssXwQqg/girl1.jpg",
+    "posted_date": "September 14, 2023",
+    "reading_time": "60 minutes",
+    "hashtag": ["#Romance", "#Cooking", "#LoveStory"]
+  },
+  {
+    "id": 67890,
+    "cover": "https://i.ibb.co/nCvp5HM/nice-business-desk-black-background.jpg",
+    "title": "The Time Traveler's Dilemma",
+    "author_img": "https://i.ibb.co/LY8DpDZ/girl2.jpg",
+    "posted_date": "September 15, 2023",
+    "reading_time": "75 minutes",
+    "hashtag": ["#Science Fiction", "#TimeTravel", "#Adventure"]
+  },
+  {
+    "id": 24680,
+    "cover": "https://i.ibb.co/Wzq2jWb/dose-media-b-U6-Jyh-SI6zo-unsplash.jpg",
+    "title": "Secrets of the Underworld",
+    "author_img": "https://i.ibb.co/cQq7Xq0/profile.png",
+    "posted_date": "September 16, 2023",
+    "reading_time": "55 minutes",
+    "hashtag": ["#Mystery", "#Suspense", "#Adventure"]
+  }
+]
